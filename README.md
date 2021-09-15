@@ -11,7 +11,7 @@ Code is coming soon!
 - cv2  
 ## Introduction  
 Inspired by the half quadratic splitting (HQS) algorithm, we put forward a novel dense deep unfolding network with 3D-CNN prior for Snapshot compressive imaging. Merging the merits of both model-based methods and learning-based methods, our method has strong interpretability and high-quality reconstructed results. To enhance the ability to exploit spatial-temporal correlation, we assemble a deep network with 3D-CNN prior. To reduce the information loss, we propose a strategy of dense feature map (DFM) fusion, and we also design a dense feature map adaption (DFMA) module to make information optionally transmitting between phases.
-![Network](/Figs/network.PNG)
+![network](/Figs/network.PNG)
 ## Citation
 If you find our work helpful in your resarch or work, please cite the following paper.
 ```
