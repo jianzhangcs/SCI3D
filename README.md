@@ -2,7 +2,7 @@
 
 This repository is the code for the following paper:
 
-Zhuoyuan Wu,  [Jian Zhang](http://jianzhang.tech/), Chong Mou. Dense Deep Unfolding Network with 3D-CNN Prior for Snapshot Compressive Imaging. ICCV 2021. [[PDF][https://arxiv.org/abs/2109.06548]]
+Zhuoyuan Wu,  [Jian Zhang](http://jianzhang.tech/), Chong Mou. Dense Deep Unfolding Network with 3D-CNN Prior for Snapshot Compressive Imaging. ICCV 2021. [[PDF](https://arxiv.org/abs/2109.06548)]
 
 ## Introduction
 
