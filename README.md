@@ -51,7 +51,7 @@ OMP_NUM_THREADS means the number of process started for each GPU.
 
 ## Results
 
-![Results](E:\下载-定期清理\3DSCI\fig\Results.jpg)
+![Results](fig/Results.jpg)
 
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following paper.
